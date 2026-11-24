@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkPubNativeAdapter",
-            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkPubNativeAdapter/3.9.3.2.10/AnyThinkPubNativeAdapter-3.9.3.2.10.zip",
-            checksum: "TODO_CHECKSUM"
+            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkPubNativeAdapter/30903.2.10/AnyThinkPubNativeAdapter-30903.2.10.zip",
+            checksum: "53e31faff8d1a31bd10ca6ccfa38d498fe67bfadd9e89f5a4ef65402949c97f1"
         ),
         .target(
             name: "AnyThinkMediationPubNativeAdapterTarget",
